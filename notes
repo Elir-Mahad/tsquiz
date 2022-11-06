@@ -1,3 +1,9 @@
+Stooped at 9:49
+
+https://www.youtube.com/watch?v=F2JCjVSZlG0&list=PL41PQx5PPbt6OheJQkg-QNROfx9j75MuR
+
+---
+
 npx create-react-app my-app --template typescript
 
 Remove unused text and css files
@@ -6,7 +12,7 @@ npm i styled-components @types/styled-components
 
     add styled components
 
-    add types from styled components 
+    add types from styled components
 
 Add assets folder with image
 
@@ -15,6 +21,5 @@ Add google fonts to public/index.html
 Use api: https://opentdb.com/api_config.php
 
 Grab generated api url: https://opentdb.com/api.php?amount=10&type=multiple
-    
-    This shows the questions and answers in a json
 
+    This shows the questions and answers in a json
